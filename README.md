@@ -3,6 +3,8 @@
 **可根据自己风险偏好定义指标趋势，切勿过度依赖，指标仅作为参考**
 ，不建议Fork repo，后续更新不会自动的.
 
+有任何问题请点击[这里提交issues](https://github.com/kentio/lonecapital-chart/issues/new)
+
 ## platform
 - [tradingview](/tradingview)
     1. [双均线 and 抵扣价](/tradingview#双均线抵扣价)
@@ -26,5 +28,4 @@
 
 ![PC](/futu/PC.jpg)
 
- 有任何问题请点击[这里](https://github.com/kentio/lonecapital-chart/issues/new)
  
