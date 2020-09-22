@@ -1,6 +1,7 @@
 # COPY FROM [Lonecapital](https://lonecapital.com/investment/7938/#more-7938)
 
 **可根据自己风险偏好定义指标趋势，切勿过度依赖，指标仅作为参考**
+，不建议Fork repo，后续更新不会自动的.
 
 ## platform
 - [tradingview](/tradingview)
