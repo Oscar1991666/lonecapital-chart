@@ -5,7 +5,7 @@
 ## platform
 - [tradingview](/tradingview)
 - [Futu](/futu)
-- [S&P500 Market Breadth from tradingview.com](/Market-Beeadth)
+- [S&P500 Market Breadth from tradingview.com](/Market-Breadth)
 
 >自定义颜色可以参考下面的链接
 
