@@ -5,7 +5,7 @@
 ## platform
 - [tradingview](/tradingview)
 - [Futu](/futu)
-- [S&P500 Market Breadth from tradingview.com](/Market Beeadth)
+- [S&P500 Market Breadth from tradingview.com](/Market-Beeadth)
 
 >自定义颜色可以参考下面的链接
 
@@ -14,11 +14,11 @@
 - http://www.shouce.ren/api/html/html4/appendix-color.html
 
 ## 效果
+![Market-Breadth](/Market-Breadth/market-tradingview.png)
+
 ![Mobile](/futu/Mobile.jpg)
 
 ![PC](/futu/PC.jpg)
-
-![Market-Breadth](/Market-Breadth/market-tradingview.png)
 
  有任何问题请点击[这里](https://github.com/kentio/lonecapital-chart/issues/new)
  
